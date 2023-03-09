@@ -1,0 +1,1 @@
+(1)Switch user (2)Print username (3)Groups the current user is a part of (4)Change of ownership (5)Empty file (6)Execute permission (7)Multiple permissions (8)Permission granted (9)Setting permissions (10)File type (11)Mirror permissions (12)Directories (13)More directories (14)Change group (15)Owner and group (16)Symbolic links (17)Change of owner if only (18)Star wars

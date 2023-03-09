@@ -1,0 +1,8 @@
+#!/bin/bash
+If FILE_OWNER=guillaume
+
+then chown betty hello
+
+else
+
+fi
