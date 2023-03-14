@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -min depth 1 -type d | wc -l
