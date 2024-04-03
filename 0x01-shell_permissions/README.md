@@ -4,3 +4,4 @@ Group id
 Change ownership
 Empty file
 Execute permissions
+Multiple permissions
