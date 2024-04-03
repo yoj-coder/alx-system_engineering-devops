@@ -9,3 +9,4 @@ Execution permission to everybody
 James Bond 007
 Same mod
 Directory permissions
+Permission 751
