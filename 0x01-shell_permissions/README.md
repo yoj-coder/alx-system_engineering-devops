@@ -12,3 +12,4 @@ Directory permissions
 Permission 751
 Change group
 Change owner and group owner
+Symbolic links
