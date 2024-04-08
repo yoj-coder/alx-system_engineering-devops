@@ -3,3 +3,4 @@ Confused Smiley
 Show contents of file on standard output
 Display two files
 Last lines of a file
+Head command
