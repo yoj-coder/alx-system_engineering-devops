@@ -6,3 +6,4 @@ Last lines of a file
 Head command
 Line #2
 Escape backslash character
+Tail command
