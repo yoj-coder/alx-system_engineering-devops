@@ -7,3 +7,4 @@ Head command
 Line #2
 Escape backslash character
 Tail command
+No more javascript
