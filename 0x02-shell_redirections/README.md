@@ -13,3 +13,4 @@ Sort files
 Unique lines only
 Look for a pattern
 Line count
+After pattern print lines
