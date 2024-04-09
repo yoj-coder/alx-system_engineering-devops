@@ -11,3 +11,4 @@ No more javascript
 Count directories
 Sort files
 Unique lines only
+Look for a pattern
