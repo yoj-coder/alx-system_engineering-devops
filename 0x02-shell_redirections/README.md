@@ -9,3 +9,4 @@ Escape backslash character
 Tail command
 No more javascript
 Count directories
+Sort files
