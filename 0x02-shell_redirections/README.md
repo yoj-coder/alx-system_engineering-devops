@@ -8,3 +8,4 @@ Line #2
 Escape backslash character
 Tail command
 No more javascript
+Count directories
