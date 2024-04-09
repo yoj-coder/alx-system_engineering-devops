@@ -14,3 +14,4 @@ Unique lines only
 Look for a pattern
 Line count
 After pattern print lines
+Look for pattern and don't print
