@@ -18,3 +18,4 @@ Look for pattern and don't print
 Letters only
 Character replacement
 Delete some characters from input
+Flip it
