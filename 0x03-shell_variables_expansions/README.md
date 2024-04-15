@@ -6,3 +6,4 @@ Global variables
 Local variables
 Create local variable
 Addition
+Divide and rule
