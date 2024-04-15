@@ -11,3 +11,4 @@ Breath to the power love
 Base to 2 to base 10
 Combinations
 Floating numbers
+Decimal to Hexadecimal
